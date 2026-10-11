@@ -1,0 +1,11 @@
+{
+  "org": "pypa",
+  "repo": "bandersnatch",
+  "versions": [
+    {
+      "commit": "6e27445dd55682505cb64454895a29c8d1e9a592",
+      "tag": "8.1.0",
+      "parsed_at": "2026-10-11T01:35:29.231721+00:00"
+    }
+  ]
+}
