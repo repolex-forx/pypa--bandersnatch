@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pypa/bandersnatch/commit/6e27445dd55682505cb64454895a29c8d1e9a592",
       "git:hexsha": "6e27445dd55682505cb64454895a29c8d1e9a592",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "8.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "8.1.0",
+      "repolex:parsedAt": "2026-10-11T01:35:29.230955+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pypa/bandersnatch/commit/5987945df1d5adfc752aeebc27512eab75ec28f8",
